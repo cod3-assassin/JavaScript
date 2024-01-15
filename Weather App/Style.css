@@ -12,7 +12,9 @@ body {
 .card {
     width: 90%;
     max-width: 470px;
-    background: linear-gradient(135deg, #00feba, #5b548a);
+    background: #1a2a6c;
+    background: -webkit-linear-gradient(to right, #fdbb2d, #b21f1f, #1a2a6c);
+    background: linear-gradient(to right, #fdbb2d, #b21f1f, #1a2a6c);
     color: #fff;
     margin: 100px auto 0;
     border-radius: 20px;
@@ -48,7 +50,6 @@ body {
     width: 60px;
     height: 60px;
     cursor: pointer;
-
 }
 
 .search button img {
@@ -83,7 +84,6 @@ body {
     display: flex;
     align-items: center;
     text-align: left;
-
 }
 
 .col img {
@@ -95,7 +95,6 @@ body {
 .Wind {
     font-size: 28px;
     margin-top: -6px;
-
 }
 
 .weather {
