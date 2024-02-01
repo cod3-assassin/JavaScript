@@ -1,4 +1,5 @@
 # JavaScript
-javascript Projects 
-Weather App using html ,css & js 
-also the api 
+* javascript Projects 
+* Weather App using html ,css & js 
+* using [ openweathermap] API
+
